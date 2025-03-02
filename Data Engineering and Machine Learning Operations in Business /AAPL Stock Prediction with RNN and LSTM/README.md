@@ -110,7 +110,7 @@ where:
 
 - \( W_h \) and \( W_x \) are weight matrices  
 - \( b \) is the bias term  
-- \( f \) is an activation function (e.g., **tanh** or **ReLU**)  
+- \( f \) is an activation function (e.g.,**ReLU**)  
 
 The output is calculated as:  
 
